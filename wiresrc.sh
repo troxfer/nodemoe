@@ -60,5 +60,5 @@ echo -e "masternode=1\nmasternodeprivkey="$masternodekey >> $wirecoredir"wire.co
 sleep 1
 ./wired -daemon
 echo "Masternode private key: $masternodekey"
-echo "Job completed successfully"
+echo "Welcome WIRE Token Masternode"
 fi
